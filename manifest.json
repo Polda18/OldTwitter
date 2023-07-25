@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Old Twitter",
+    "description": "Brings back the old Twitter logo and feel",
+    "version": "1.0-beta1",
+    "action": {
+        "default_popup": "old_twitter.html",
+        "default_icon": "old_twitter.png"
+    }
+}
